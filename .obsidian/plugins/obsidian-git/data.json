@@ -1,0 +1,9 @@
+{
+  "autoBackup": 5,
+  "autoBackupAfterFileChange": false,
+  "autoPullOnBoot": true,
+  "commitMessage": "vault backup: {{date}}",
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFiles": false
+}
